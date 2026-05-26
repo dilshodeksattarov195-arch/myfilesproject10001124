@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "configcender",
+        "uuid": 6761984,
+        "checksum": "71to7l"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
